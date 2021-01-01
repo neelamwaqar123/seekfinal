@@ -1,0 +1,48 @@
+ .btn-wrapper {
+  text-align: center;
+}
+
+.ant-btn {
+  border-radius: 5px;
+ 
+  background-color: rgb(114, 41, 90);
+  border: rgb(132, 47, 104);
+}
+
+.ant-btn:focus{
+  background-color: rgb(151, 54, 119);
+}
+.ant-btn:active{
+  background-color: rgb(151, 54, 119);
+}
+.ant-btn:hover{
+  background-color: rgb(151, 54, 119);
+}
+
+.ant-popover-buttons .ant-btn{
+  color: white;
+  
+}
+
+/*
+
+
+.w-50 {
+  width: 50%;
+}
+
+
+
+.main-btn {
+  background-color: #0F3460;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 0 10px;
+}
+
+.main-btn-wrap {
+  margin: 0 auto;
+  text-align: center;
+} */
